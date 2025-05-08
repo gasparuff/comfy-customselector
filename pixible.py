@@ -126,11 +126,3 @@ class CropWeightSelector:
             image_url
         )
 
-
-NODE_CLASS_MAPPINGS = {
-    "CropWeightSelector": CropWeightSelector
-}
-
-NODE_DISPLAY_NAME_MAPPINGS = {
-    "CropWeightSelector": "🎯 Crop Weight Selector"
-}
